@@ -1,0 +1,10 @@
+logs
+target/scala-2.13
+target/streams
+target/web
+/.idea
+/.idea_modules
+/.classpath
+/.project
+/.settings
+/RUNNING_PID
